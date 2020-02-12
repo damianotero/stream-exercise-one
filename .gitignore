@@ -1,7 +1,7 @@
 # Created by .ignore support plugin (hsz.mobi)
 .gradle/4.10/vcsMetadata-1/
-out/production/classes/ExerciseOne.class
 out/production/classes/META-INF/
 src/main/resources/
 src/test/resources/
-/.idea/workspace.xml
+/.idea/
+out/
