@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Documents/Html &amp; CSS/IntelliJ/TestCSS" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/ApplicationPf-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../JavaCourse/bb-bms" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../JavaCourse/course-java-classroom-exercises" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../JavaCourse/course-java-labs-fundamentals" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../JavaCourse/gradle-demo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../JavaCourse/tutorialsql" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../projects/PokerTexas" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../projects/contact-list" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../projects/crypto-portfolio" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../projects/landingPage" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../projects/movie-rental" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../projects/portfolio" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../projects/security" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="1296" />
+    <option name="height" value="1410" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581510764856" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,7 @@
+//  Exercise one
+
+// Create Person object with 3 fields : Name, Nationality, Age
+// Create a List of Person
+// Get the average age of a nationality
+
+//  Use streams only
